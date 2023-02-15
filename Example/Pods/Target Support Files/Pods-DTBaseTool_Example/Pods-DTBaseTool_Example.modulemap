@@ -1,0 +1,6 @@
+framework module Pods_DTBaseTool_Example {
+  umbrella header "Pods-DTBaseTool_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

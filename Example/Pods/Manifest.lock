@@ -1,0 +1,16 @@
+PODS:
+  - DTBaseTool (0.1.0)
+
+DEPENDENCIES:
+  - DTBaseTool (from `../`)
+
+EXTERNAL SOURCES:
+  DTBaseTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DTBaseTool: c1633b478144c907c6d3289af5cc7d84112bf06a
+
+PODFILE CHECKSUM: 0dbda589b7496152655d5b6a60969400ba1c590e
+
+COCOAPODS: 1.11.3

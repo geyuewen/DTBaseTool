@@ -1,0 +1,22 @@
+{
+  "name": "DTBaseTool",
+  "version": "0.1.0",
+  "summary": "A short description of DTBaseTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GGG/DTBaseTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GGG": "geyuewen1994@126.com"
+  },
+  "source": {
+    "git": "https://github.com/GGG/DTBaseTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DTBaseTool/Classes/**/*"
+}

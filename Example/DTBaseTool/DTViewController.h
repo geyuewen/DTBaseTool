@@ -1,0 +1,13 @@
+//
+//  DTViewController.h
+//  DTBaseTool
+//
+//  Created by GGG on 02/15/2023.
+//  Copyright (c) 2023 GGG. All rights reserved.
+//
+
+@import UIKit;
+
+@interface DTViewController : UIViewController
+
+@end
